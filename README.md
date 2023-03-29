@@ -1,2 +1,2 @@
 # gerian
-for educational purposes only
+web development project
